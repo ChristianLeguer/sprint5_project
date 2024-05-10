@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-url = 'https://github.com/ChristianLeguer/sprint5_project/blob/main/vehicles_us.csv'
+url = 'https://raw.githubusercontent.com/ChristianLeguer/sprint5_project/main/vehicles_us.csv?token=GHSAT0AAAAAACR6HWOASHIVDBKIX42RGU5WZR6NNVA'
 car_data = pd.read_csv(url)  # leer los datos
 
 
