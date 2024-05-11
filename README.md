@@ -7,3 +7,8 @@ Los botones son:
     Construir gráfico de dispersión
 
 Al hacer click en cualquiera de los dos se debe de presentar el gráfico en cuestión.
+
+Link de acceso a la app
+
+https://sprint5-project-xc4k.onrender.com
+
